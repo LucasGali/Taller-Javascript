@@ -1,0 +1,11 @@
+.text-green {
+  color: rgb(10, 197, 10) !important;
+}
+
+.text-red {
+  color: rgb(214, 16, 16) !important;
+}
+
+.icon {
+  width: 27px
+}

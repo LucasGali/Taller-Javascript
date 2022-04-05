@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: rgba(0, 4, 38);
+    color:white
+}
+.card{
+border-radius: 10px;
+color:black
+}
+.card img{
+    border-radius: 10px;
+}
+
+.text_input:focus{
+    color:rgba(255, 76, 139)
+}

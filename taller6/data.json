@@ -1,0 +1,812 @@
+{
+    "data": {
+        "address": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+        "updated_at": "2022-03-31T14:27:14.689734191Z",
+        "next_update_at": "2022-03-31T14:32:14.689734331Z",
+        "quote_currency": "USD",
+        "chain_id": 1,
+        "items": [
+            {
+                "contract_decimals": 18,
+                "contract_name": "Ether",
+                "contract_ticker_symbol": "ETH",
+                "contract_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "supports_erc": null,
+                "logo_url": "https://www.covalenthq.com/static/images/icons/display-icons/ethereum-eth-logo.png",
+                "last_transferred_at": null,
+                "type": "cryptocurrency",
+                "balance": "43800580025050180",
+                "balance_24h": "102920307188136046",
+                "quote_rate": 3396.6797,
+                "quote_rate_24h": 3434.2844,
+                "quote": 148.77654,
+                "quote_24h": 353.4576,
+                "nft_data": null
+            },
+            {
+                "contract_decimals": 18,
+                "contract_name": "Wrapped Ether",
+                "contract_ticker_symbol": "WETH",
+                "contract_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "supports_erc": [
+                    "erc20"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+                "last_transferred_at": "2022-03-28T12:03:55Z",
+                "type": "dust",
+                "balance": "0",
+                "balance_24h": "0",
+                "quote_rate": 3397.438,
+                "quote_rate_24h": 3424.1914,
+                "quote": 0.0,
+                "quote_24h": 0.0,
+                "nft_data": null
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "QteesV2",
+                "contract_ticker_symbol": "Qteesv2",
+                "contract_address": "0x4fc0da0e5aff4c899daaac4ee93f5d23d61fd363",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x4fc0da0e5aff4c899daaac4ee93f5d23d61fd363.png",
+                "last_transferred_at": "2022-03-28T15:24:51Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "54",
+                        "token_balance": "1",
+                        "token_url": "https://us-central1-mofos-69a62.cloudfunctions.net/app/qtees/token/54",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "external_data": {
+                            "name": "QTEES V2 #54",
+                            "description": "QTEES are alien marshmallows who live on the blockchain. They may look sweet and innocent but they live to eat and party! Intruders into their world leads to chants of “RIP BOZO”, usually followed by them eating their enemies.",
+                            "image": "https://ipfs.io/ipfs/QmPABXy6nygj4FLmdjNHaoF3jyaeUqER17jDFBPcjw9pPQ/54.png",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://ipfs.io/ipfs/QmPABXy6nygj4FLmdjNHaoF3jyaeUqER17jDFBPcjw9pPQ/54.png",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://ipfs.io/ipfs/QmPABXy6nygj4FLmdjNHaoF3jyaeUqER17jDFBPcjw9pPQ/54.png",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://ipfs.io/ipfs/QmPABXy6nygj4FLmdjNHaoF3jyaeUqER17jDFBPcjw9pPQ/54.png",
+                            "animation_url": null,
+                            "external_url": null,
+                            "attributes": [
+                                {
+                                    "trait_type": "Backgrounds",
+                                    "value": "Rainbow bg 1"
+                                },
+                                {
+                                    "trait_type": "Body QT",
+                                    "value": "fire color qt"
+                                },
+                                {
+                                    "trait_type": "Mouth",
+                                    "value": "happy 2"
+                                },
+                                {
+                                    "trait_type": "Eyes",
+                                    "value": "swirly anime eyes"
+                                },
+                                {
+                                    "trait_type": "Head wears",
+                                    "value": "beanie rainbow"
+                                },
+                                {
+                                    "trait_type": "Hand Items",
+                                    "value": "mushroom"
+                                }
+                            ],
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "Kiwami",
+                "contract_ticker_symbol": "KIWAMI",
+                "contract_address": "0x701a038af4bd0fc9b69a829ddcb2f61185a49568",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x701a038af4bd0fc9b69a829ddcb2f61185a49568.png",
+                "last_transferred_at": "2022-03-30T15:56:19Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "3698",
+                        "token_balance": "1",
+                        "token_url": "http://10.128.0.18/ipfs/QmaKTpCZsVJingJ1MciEMSnN4MTndz3W8FFT1AMbYAippq/3698",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0x1524f97d2a17d44aa4956549b4e6050e3bd420ec",
+                        "external_data": {
+                            "name": "Kiwami #3698",
+                            "description": "Kiwami is a next-generation collective of artists, builders, and rule-breakers.",
+                            "image": "https://ipfs.io/ipfs/QmdD9iwFK155A75Yh59Lc3CYzqEi1QR8p8f5kCp1APyXEp/3698.png",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://ipfs.io/ipfs/QmdD9iwFK155A75Yh59Lc3CYzqEi1QR8p8f5kCp1APyXEp/3698.png",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://ipfs.io/ipfs/QmdD9iwFK155A75Yh59Lc3CYzqEi1QR8p8f5kCp1APyXEp/3698.png",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://ipfs.io/ipfs/QmdD9iwFK155A75Yh59Lc3CYzqEi1QR8p8f5kCp1APyXEp/3698.png",
+                            "animation_url": null,
+                            "external_url": "https://kiwami.app/",
+                            "attributes": [
+                                {
+                                    "trait_type": "Background",
+                                    "value": "Magenta"
+                                },
+                                {
+                                    "trait_type": "Body",
+                                    "value": "Skintone 3"
+                                },
+                                {
+                                    "trait_type": "Markings",
+                                    "value": "Kitty Tattoo"
+                                },
+                                {
+                                    "trait_type": "Body Attachment",
+                                    "value": "Tattoo Dragon"
+                                },
+                                {
+                                    "trait_type": "Face Attachment",
+                                    "value": "No Attachment"
+                                },
+                                {
+                                    "trait_type": "Necklace",
+                                    "value": "No Necklace"
+                                },
+                                {
+                                    "trait_type": "Clothing",
+                                    "value": "Hanging White Jacket and Shirt"
+                                },
+                                {
+                                    "trait_type": "Mouth",
+                                    "value": "Tongue Out"
+                                },
+                                {
+                                    "trait_type": "Eyes",
+                                    "value": "Black Eyes 1"
+                                },
+                                {
+                                    "trait_type": "Brow",
+                                    "value": "Brow 2"
+                                },
+                                {
+                                    "trait_type": "Eyewear",
+                                    "value": "No Eyewear"
+                                },
+                                {
+                                    "trait_type": "Hair",
+                                    "value": "Joe Hair"
+                                },
+                                {
+                                    "trait_type": "Mouth Accessory",
+                                    "value": "No Accessory"
+                                },
+                                {
+                                    "trait_type": "Ear Accessory",
+                                    "value": "Cross Earring"
+                                },
+                                {
+                                    "trait_type": "Hand",
+                                    "value": "Baseball Bat"
+                                },
+                                {
+                                    "trait_type": "Environment",
+                                    "value": "No Environment"
+                                }
+                            ],
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "The Art of Seasons",
+                "contract_ticker_symbol": "TAOS",
+                "contract_address": "0x5bd815fd6c096bab38b4c6553cfce3585194dff9",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x5bd815fd6c096bab38b4c6553cfce3585194dff9.png",
+                "last_transferred_at": "2022-03-29T08:15:27Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "12270",
+                        "token_balance": "1",
+                        "token_url": "https://www.artofseasons.co/api/token/12270",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0xd9ca44bdba571d14d9993cde55d19214c88dfa38",
+                        "external_data": {
+                            "name": "Seasons #12270",
+                            "description": "After evolving during the summer, it's time for an autumn chill to take in each moment in time as a gift.",
+                            "image": "https://www.artofseasons.co/token/autumn/4/2.jpg",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://www.artofseasons.co/token/autumn/4/2.jpg",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://www.artofseasons.co/token/autumn/4/2.jpg",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://www.artofseasons.co/token/autumn/4/2.jpg",
+                            "animation_url": "https://www.artofseasons.co/evolving/autumn/4",
+                            "external_url": null,
+                            "attributes": [
+                                {
+                                    "trait_type": "Season",
+                                    "value": "Autumn"
+                                },
+                                {
+                                    "trait_type": "Series",
+                                    "value": "Autumn Chill"
+                                }
+                            ],
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "QteesV2",
+                "contract_ticker_symbol": "Qteesv2",
+                "contract_address": "0x1db44aa3b250434a131e329ff740832dea1c7db3",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x1db44aa3b250434a131e329ff740832dea1c7db3.png",
+                "last_transferred_at": "2022-03-28T20:05:30Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "56",
+                        "token_balance": "1",
+                        "token_url": "https://us-central1-mofos-69a62.cloudfunctions.net/app/qtees/token/56",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "external_data": {
+                            "name": "QTEES V2 #56",
+                            "description": "QTEES are alien marshmallows who live on the blockchain. They may look sweet and innocent but they live to eat and party! Intruders into their world leads to chants of “RIP BOZO”, usually followed by them eating their enemies.",
+                            "image": "https://ipfs.io/ipfs/QmPABXy6nygj4FLmdjNHaoF3jyaeUqER17jDFBPcjw9pPQ/56.png",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://ipfs.io/ipfs/QmPABXy6nygj4FLmdjNHaoF3jyaeUqER17jDFBPcjw9pPQ/56.png",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://ipfs.io/ipfs/QmPABXy6nygj4FLmdjNHaoF3jyaeUqER17jDFBPcjw9pPQ/56.png",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://ipfs.io/ipfs/QmPABXy6nygj4FLmdjNHaoF3jyaeUqER17jDFBPcjw9pPQ/56.png",
+                            "animation_url": null,
+                            "external_url": null,
+                            "attributes": [
+                                {
+                                    "trait_type": "Backgrounds",
+                                    "value": "shining blue bg"
+                                },
+                                {
+                                    "trait_type": "Body QT",
+                                    "value": "blue pink qt 3"
+                                },
+                                {
+                                    "trait_type": "Mouth",
+                                    "value": "confused"
+                                },
+                                {
+                                    "trait_type": "Eyes",
+                                    "value": "swirly anime eyes"
+                                },
+                                {
+                                    "trait_type": "Head wears",
+                                    "value": "braids"
+                                },
+                                {
+                                    "trait_type": "Hand Items",
+                                    "value": "rubic cube"
+                                }
+                            ],
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "College Bear and Bull",
+                "contract_ticker_symbol": "BNB",
+                "contract_address": "0x093e415f1aa0428fe4775be47446d5244eeec58a",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x093e415f1aa0428fe4775be47446d5244eeec58a.png",
+                "last_transferred_at": "2022-03-27T18:33:07Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "1",
+                        "token_balance": "1",
+                        "token_url": "http://10.128.0.18/ipfs/QmUrHPgk9oEXHpi1StpXQ56H1vsYbLurmGEyVnxiEsDfBg/1.json",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "external_data": {
+                            "name": "College Bears and Bulls #1",
+                            "description": "College bears are ready to emerge from college!!",
+                            "image": "https://ipfs.io/ipfs/QmTMLd1L2uSVTPucZx2qe9Sx463v4xmwKgvmFDXBzj93Li/1.png",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://ipfs.io/ipfs/QmTMLd1L2uSVTPucZx2qe9Sx463v4xmwKgvmFDXBzj93Li/1.png",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://ipfs.io/ipfs/QmTMLd1L2uSVTPucZx2qe9Sx463v4xmwKgvmFDXBzj93Li/1.png",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://ipfs.io/ipfs/QmTMLd1L2uSVTPucZx2qe9Sx463v4xmwKgvmFDXBzj93Li/1.png",
+                            "animation_url": null,
+                            "external_url": null,
+                            "attributes": [
+                                {
+                                    "trait_type": "Background",
+                                    "value": "White"
+                                },
+                                {
+                                    "trait_type": "Colour",
+                                    "value": "Yellow"
+                                },
+                                {
+                                    "trait_type": "Outfit",
+                                    "value": "None"
+                                },
+                                {
+                                    "trait_type": "Mouth",
+                                    "value": "O shaped"
+                                },
+                                {
+                                    "trait_type": "Eyes",
+                                    "value": "Cry"
+                                },
+                                {
+                                    "trait_type": "Glasses",
+                                    "value": "None"
+                                }
+                            ],
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "Dreadfulz",
+                "contract_ticker_symbol": "Dreadfulz",
+                "contract_address": "0x81ae0be3a8044772d04f32398bac1e1b4b215aa8",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x81ae0be3a8044772d04f32398bac1e1b4b215aa8.png",
+                "last_transferred_at": "2022-03-31T14:24:05Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "1787",
+                        "token_balance": "1",
+                        "token_url": "http://10.128.0.18/ipfs/QmUfeu9YQSXnJXBZRxa6M3kcKauWkTV1zHKBpzCMxmhcdN/1787.json",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0x90a1ac797c65259b9bb07afce4c70b2522eb4014",
+                        "external_data": {
+                            "name": "Dreadfulz #1787",
+                            "description": "7,777 Dreadfulz have inked their name in fealty to the Grand Inquisitor. Bound by avarice, lustful for $DREAD.",
+                            "image": "https://ipfs.io/ipfs/Qmac2onHRipthxegUZNdF1AzPwnLoQD9JrCSA9RANFrcQ6",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://ipfs.io/ipfs/Qmac2onHRipthxegUZNdF1AzPwnLoQD9JrCSA9RANFrcQ6",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://ipfs.io/ipfs/Qmac2onHRipthxegUZNdF1AzPwnLoQD9JrCSA9RANFrcQ6",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://ipfs.io/ipfs/Qmac2onHRipthxegUZNdF1AzPwnLoQD9JrCSA9RANFrcQ6",
+                            "animation_url": null,
+                            "external_url": null,
+                            "attributes": null,
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "Shines",
+                "contract_ticker_symbol": "SHN",
+                "contract_address": "0xa00108f4cfb6400d43c911af0d7a3422f7c011e5",
+                "supports_erc": [
+                    "erc20"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0xa00108f4cfb6400d43c911af0d7a3422f7c011e5.png",
+                "last_transferred_at": "2022-03-30T17:59:09Z",
+                "type": "nft",
+                "balance": "0",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": null
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "Metroverse Blackout City Block",
+                "contract_ticker_symbol": "METROBLOCK2",
+                "contract_address": "0x25cd67e2dfec471acd3cdd3b22ccf7147596dd8b",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x25cd67e2dfec471acd3cdd3b22ccf7147596dd8b.png",
+                "last_transferred_at": "2022-03-30T08:06:17Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "14672",
+                        "token_balance": "1",
+                        "token_url": "http://10.128.0.18/ipfs/QmaUQ7DKqD8PK9F88Q7ycjEHcjgsjQ5isvY2PaTGFB3oAq/14672",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0xbe6a60772cc87f10921b1bdc13f89c4920040a75",
+                        "external_data": {
+                            "name": "Block #14672",
+                            "description": "Metroverse is a land trading NFT strategy game on the Ethereum blockchain. Collect, trade, and stake your city blocks to earn $MET, the utility token of Metroverse.",
+                            "image": "https://ipfs.io/ipfs/QmTEYVZP8CeiVmXZnYD2BVtBxqiAi64VKAvhZw2jsZhL6z/14672.jpeg",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://ipfs.io/ipfs/QmTEYVZP8CeiVmXZnYD2BVtBxqiAi64VKAvhZw2jsZhL6z/14672.jpeg",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://ipfs.io/ipfs/QmTEYVZP8CeiVmXZnYD2BVtBxqiAi64VKAvhZw2jsZhL6z/14672.jpeg",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://ipfs.io/ipfs/QmTEYVZP8CeiVmXZnYD2BVtBxqiAi64VKAvhZw2jsZhL6z/14672.jpeg",
+                            "animation_url": null,
+                            "external_url": "https://metroverse.com/block/14672",
+                            "attributes": [
+                                {
+                                    "trait_type": "Score: Total",
+                                    "display_type": "number",
+                                    "value": 259
+                                },
+                                {
+                                    "trait_type": "Score: Residential",
+                                    "display_type": "number",
+                                    "value": 120
+                                },
+                                {
+                                    "trait_type": "Score: Commercial",
+                                    "display_type": "number",
+                                    "value": 98
+                                },
+                                {
+                                    "trait_type": "Score: Industrial",
+                                    "display_type": "number",
+                                    "value": 41
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Cottage Bungalow"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Garden Villa"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Hoodville Towers Small"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Modern Bungalow"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Modern Villa"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Mountain Cabin Villa"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Palm Villa"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Radiant Towers Medium"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Retreat Cabin"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Romantic Cabin"
+                                },
+                                {
+                                    "trait_type": "Buildings: Residential",
+                                    "value": "Sauna Cabin"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Automobile Showroom"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Bakery Shop"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Blender Guitars"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Bookstore"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Boomb0x Club"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Flora Flower Shop"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Metro Bar"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Metsurance Building Small"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Mety's"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Pharmacy"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Red Hot Chilli Burgerz"
+                                },
+                                {
+                                    "trait_type": "Buildings: Commercial",
+                                    "value": "Supermarket"
+                                },
+                                {
+                                    "trait_type": "Buildings: Industrial",
+                                    "value": "Hunting Equipment Wholesale"
+                                },
+                                {
+                                    "trait_type": "Buildings: Industrial",
+                                    "value": "MeTexMill"
+                                },
+                                {
+                                    "trait_type": "Buildings: Industrial",
+                                    "value": "Portals "
+                                },
+                                {
+                                    "trait_type": "Buildings: Industrial",
+                                    "value": "Printing Plant"
+                                },
+                                {
+                                    "trait_type": "Buildings: Industrial",
+                                    "value": "SHOErepair"
+                                },
+                                {
+                                    "trait_type": "Buildings: Public",
+                                    "value": "Car Park"
+                                },
+                                {
+                                    "trait_type": "Buildings: Public",
+                                    "value": "Dog Park"
+                                },
+                                {
+                                    "trait_type": "Buildings: Public",
+                                    "value": "Large Park"
+                                },
+                                {
+                                    "trait_type": "Buildings: Public",
+                                    "value": "Metro Bank"
+                                },
+                                {
+                                    "trait_type": "Buildings: Public",
+                                    "value": "Post Office"
+                                },
+                                {
+                                    "trait_type": "Buildings: Public",
+                                    "value": "Prison"
+                                },
+                                {
+                                    "trait_type": "Buildings: Public",
+                                    "value": "Small Park"
+                                }
+                            ],
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "SpriteClub",
+                "contract_ticker_symbol": "SPRITE",
+                "contract_address": "0x2744fe5e7776bca0af1cdeaf3ba3d1f5cae515d3",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x2744fe5e7776bca0af1cdeaf3ba3d1f5cae515d3.png",
+                "last_transferred_at": "2022-03-28T05:36:24Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "1859",
+                        "token_balance": "1",
+                        "token_url": "http://10.128.0.18/ipfs/QmVNPJb4h7oUNhfn8tMXhKGP2uwC3xVM1ShCrHdpZ3i14t/1859.json",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0x1a186738e1b13de15d3b5418363cebe91583fc42",
+                        "external_data": {
+                            "name": "Sprite #1859",
+                            "description": "Sprite Club is a collection of 7,777 Sprites, split into 5 Classes. The rarity of Classes is based on the choices of our community during the ‘The Prologue’ minting quiz",
+                            "image": "https://ipfs.io/ipfs/bafybeibjunqygiccbh5xqzbed5tz3xyvsmgc5rfkxwss2jfzrqh6wk5rhy",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://ipfs.io/ipfs/bafybeibjunqygiccbh5xqzbed5tz3xyvsmgc5rfkxwss2jfzrqh6wk5rhy",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://ipfs.io/ipfs/bafybeibjunqygiccbh5xqzbed5tz3xyvsmgc5rfkxwss2jfzrqh6wk5rhy",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://ipfs.io/ipfs/bafybeibjunqygiccbh5xqzbed5tz3xyvsmgc5rfkxwss2jfzrqh6wk5rhy",
+                            "animation_url": null,
+                            "external_url": "https://spriteclubnft.com",
+                            "attributes": [],
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            },
+            {
+                "contract_decimals": 0,
+                "contract_name": "EveraiDuo",
+                "contract_ticker_symbol": "EveraiDuo",
+                "contract_address": "0x9a38dec0590abc8c883d72e52391090e948ddf12",
+                "supports_erc": [
+                    "erc20",
+                    "erc721"
+                ],
+                "logo_url": "https://logos.covalenthq.com/tokens/1/0x9a38dec0590abc8c883d72e52391090e948ddf12.png",
+                "last_transferred_at": "2022-03-29T18:45:20Z",
+                "type": "nft",
+                "balance": "1",
+                "balance_24h": null,
+                "quote_rate": 0.0,
+                "quote_rate_24h": null,
+                "quote": 0.0,
+                "quote_24h": null,
+                "nft_data": [
+                    {
+                        "token_id": "860",
+                        "token_balance": "1",
+                        "token_url": "https://www.everai.xyz/api/tokens/860",
+                        "supports_erc": [
+                            "erc20",
+                            "erc721"
+                        ],
+                        "token_price_wei": null,
+                        "token_quote_rate_eth": null,
+                        "original_owner": "0x46609f227534f898a345e6f98bff07e322ea52c1",
+                        "external_data": {
+                            "name": "Duo's Everglyph #860",
+                            "description": null,
+                            "image": "https://ipfs.io/ipfs/QmZyMsvRpbJQc82QZdcYMi8RwVyxn1kuUKXU3f33xvmHmK",
+                            "image_256": "https://image-proxy.svc.prod.covalenthq.com/256,fit,png/https://ipfs.io/ipfs/QmZyMsvRpbJQc82QZdcYMi8RwVyxn1kuUKXU3f33xvmHmK",
+                            "image_512": "https://image-proxy.svc.prod.covalenthq.com/512,fit,png/https://ipfs.io/ipfs/QmZyMsvRpbJQc82QZdcYMi8RwVyxn1kuUKXU3f33xvmHmK",
+                            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/1024,fit,png/https://ipfs.io/ipfs/QmZyMsvRpbJQc82QZdcYMi8RwVyxn1kuUKXU3f33xvmHmK",
+                            "animation_url": null,
+                            "external_url": null,
+                            "attributes": [],
+                            "owner": null
+                        },
+                        "owner": "0xf8d3351c17ed31d7dba0002a8df4ef57a8e17902",
+                        "owner_address": null,
+                        "burned": null
+                    }
+                ]
+            }
+        ],
+        "pagination": null
+    },
+    "error": false,
+    "error_message": null,
+    "error_code": null
+}
